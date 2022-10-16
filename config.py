@@ -1,1 +1,9 @@
 API_TOKEN="5769251755:AAEN2M-CeDT2XjmL4c2ZWrWyYLA9Lr6ebdo"
+time_zone='Iran'
+channel_id='@rahbazkoon'
+proxy_port=8080
+bridge_port_input=1210
+message_id=67
+name_server="Proxy server"
+sleep_time=300 #5 minutes
+manager_telegram_id=68463073939
